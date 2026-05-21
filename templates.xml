@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<templates>
+  <template 
+    section="Draw Custom Templates" 
+    subsection="Default Drawing Template" 
+    url="https://raw.githubusercontent.com/MrBaldric/drawio/main/drawing_template_2026.drawio.xml" 
+    title="My Base Template" 
+    description="Loaded directly from GitHub" />
+</templates>
